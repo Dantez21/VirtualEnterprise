@@ -1,0 +1,340 @@
+CRITICAL - 2022-03-04 08:58:37 --> Undefined property: App\Controllers\Hire::$session
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->submit()
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-04 09:31:07 --> Column 'firstName' cannot be null
+ERROR - 2022-03-04 09:31:18 --> Column 'firstName' cannot be null
+CRITICAL - 2022-03-04 09:32:18 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:32:33 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:36:16 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:36:31 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:39:30 --> syntax error, unexpected token "?", expecting end of file
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:42:02 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:42:05 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:42:29 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 09:42:32 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:01:54 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:13:09 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:13:11 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:13:14 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:16:29 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:16:33 --> syntax error, unexpected token "?", expecting "elseif" or "else" or "endif"
+#0 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#2 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#4 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-04 14:35:28 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:37:09 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:37:58 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:37:59 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:38:01 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:38:36 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:38:38 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:38:39 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(26): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:48:36 --> Undefined property: App\Controllers\Hire::$session
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(901): App\Controllers\Hire->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 14:48:37 --> Undefined property: App\Controllers\Hire::$session
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(901): App\Controllers\Hire->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 14:50:15 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(31): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:50:18 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(31): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:53:56 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(31): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:53:57 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(31): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 14:58:34 --> Undefined property: App\Controllers\Hire::$load
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 14:58:36 --> Undefined property: App\Controllers\Hire::$load
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 14:59:10 --> Undefined property: App\Controllers\Hire::$get
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 14:59:24 --> Undefined property: App\Controllers\Hire::$session
+#0 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#2 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#3 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-04 15:14:20 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-04 15:14:28 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\Marcus\app\Views\Hire.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\Marcus\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Marcus\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Marcus\system\Common.php(1271): CodeIgniter\View\View->render('hire', Array, true)
+#4 C:\xampp\htdocs\Marcus\app\Controllers\Hire.php(30): view('hire')
+#5 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(928): App\Controllers\Hire->index()
+#6 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hire))
+#7 C:\xampp\htdocs\Marcus\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Marcus\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
