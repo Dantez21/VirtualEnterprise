@@ -55,5 +55,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 - <div align="center">
-    <img src="/images/logo1.png" width="400px"</img> 
+    <img src="/images/logo1.png" width="100px"</img> 
 </div>
